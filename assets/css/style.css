@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.header {
+    height: 60px;
+}
+
+.btn-circle {
+    border-radius: 50%;
+    height: 37px;
+    width: 39px;
+}
+
+.dropdown-toggle:after { 
+    content: none 
+}
+
+.logo {
+    font-family: 'Pacifico', cursive;
+}
